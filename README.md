@@ -2,7 +2,7 @@
 
 A sleek, user-friendly web application for calculating Body Mass Index (BMI) and monitoring health status.
 
-## 🚀 Live Demo
+## 🚀 Live 
 Check out the live version here: [https://bmi-calculator-mah-tech.vercel.app/](https://bmi-calculator-mah-tech.vercel.app/)
 
 ## 📝 Description
